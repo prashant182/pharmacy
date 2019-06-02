@@ -1,0 +1,16 @@
+{
+    "PharmacyName" : "Steigner Pharmacy",
+    "PharmacyPhone": "(212)-491-4911",
+    "PharmacyEmail":"pharmacy133rdstreet@hotmail.com",
+    "AboutPharmacy": "Please, write all the content you want about your pharmacy so that we can edit this however we want",
+    "Address1":"1473 AMSTERDAM AVE",
+    "Address2":"NEW YORK, NY 10027",
+    "PharmacyHoursWeek":"Monday-Friday : 10AM to 7PM",
+    "PharmacyHoursWeekend":"Saturday: 10AM to 6PM, Sunday: Closed",
+    "OtcDesc":"Description for OTCbvncbvnbvnbcvnvbncbvncvb",
+    "MedicalDesc":" Description for Medical Conditions",
+    "PrescriptioDesc":"Description for Prescription",
+    "RefillDesc":"Description for refill requests",
+    "TransferRxDesc":"Description for transferrx",
+    "PickupDesc":"Description for Pickup/Delivery"
+}
